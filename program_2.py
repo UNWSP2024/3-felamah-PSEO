@@ -5,7 +5,7 @@
 # If the person is at least 13 years old, but less than 20 years old, it should display "teenager".
 # If the person is at least 20 year old, it should display "adult".
 
-#Author: Faith Lamah
+#Author: Faith
 #Date: 19 September 2025
 #Age Classifier Assignment
 

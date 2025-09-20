@@ -9,7 +9,7 @@
 # Over 10 pounds	$4.75
 # Write a program which calculates the shipping charge and displays the total.
 
-#Author: Faith Lamah
+#Author: Faith
 #Date: 18 September 2025
 #Shipping Charges
 def weight_conversion(weight):

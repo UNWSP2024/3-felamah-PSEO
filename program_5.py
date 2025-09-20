@@ -5,7 +5,7 @@
 # Write a program the inputs the type of hot dog wanted and optional toppings.
 # The program then displays the hot dog cost, tax and total cost.
 
-#Author: Faith Lamah
+#Author: Faith
 #Date: 18 September 2025
 #Hot Dog
 
