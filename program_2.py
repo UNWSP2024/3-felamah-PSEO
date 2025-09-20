@@ -10,7 +10,7 @@
 #Age Classifier Assignment
 
 def categorize_age(age):
-    ageCategory = float(input("What is your age? "))
+    ageCategory = float(input("what is your age? "))
     ######################
     # WRITE YOUR CODE HERE
     ######################

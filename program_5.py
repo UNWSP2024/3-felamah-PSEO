@@ -9,7 +9,7 @@
 #Date: 19 September 2025
 #Hot Dog
 
-hot_dog = 3.5
+hot_dog = 3.50
 chili_dog = 4.50
 cheese = .50
 peppers = .75

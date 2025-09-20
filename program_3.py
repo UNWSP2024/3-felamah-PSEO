@@ -16,7 +16,7 @@ def weight_conversion(weight):
     # Calculate the shipping charge.
 
     if weight <= 2:
-        shippingCost = weight * 1.50
+        shippingCost = weight * 1.500
     elif weight > 2 and weight <= 6:
         shippingCost = weight * 3
     elif weight > 6 and weight <= 10:
