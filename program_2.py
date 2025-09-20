@@ -6,7 +6,7 @@
 # If the person is at least 20 year old, it should display "adult".
 
 #Author: Faith Lamah
-#Date: 18 September 2025
+#Date: 19 September 2025
 #Age Classifier Assignment
 
 def categorize_age(age):

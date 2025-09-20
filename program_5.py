@@ -6,7 +6,7 @@
 # The program then displays the hot dog cost, tax and total cost.
 
 #Author: Faith Lamah
-#Date: 19 September 2025
+#Date: 18 September 2025
 #Hot Dog
 
 hot_dog = 3.50

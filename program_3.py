@@ -10,7 +10,7 @@
 # Write a program which calculates the shipping charge and displays the total.
 
 #Author: Faith Lamah
-#Date: 19 September 2025
+#Date: 18 September 2025
 #Shipping Charges
 def weight_conversion(weight):
     # Calculate the shipping charge.
